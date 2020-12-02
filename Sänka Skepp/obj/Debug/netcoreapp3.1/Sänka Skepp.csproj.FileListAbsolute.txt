@@ -1,0 +1,13 @@
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\bin\Debug\netcoreapp3.1\Sänka Skepp.exe
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\bin\Debug\netcoreapp3.1\Sänka Skepp.deps.json
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\bin\Debug\netcoreapp3.1\Sänka Skepp.runtimeconfig.json
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\bin\Debug\netcoreapp3.1\Sänka Skepp.runtimeconfig.dev.json
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\bin\Debug\netcoreapp3.1\Sänka Skepp.dll
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\bin\Debug\netcoreapp3.1\Sänka Skepp.pdb
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\obj\Debug\netcoreapp3.1\Sänka Skepp.csprojAssemblyReference.cache
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\obj\Debug\netcoreapp3.1\Sänka Skepp.AssemblyInfoInputs.cache
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\obj\Debug\netcoreapp3.1\Sänka Skepp.AssemblyInfo.cs
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\obj\Debug\netcoreapp3.1\Sänka Skepp.csproj.CoreCompileInputs.cache
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\obj\Debug\netcoreapp3.1\Sänka Skepp.dll
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\obj\Debug\netcoreapp3.1\Sänka Skepp.pdb
+C:\Users\lucasit\Desktop\C#-Projekt\Sänka Skepp\obj\Debug\netcoreapp3.1\Sänka Skepp.genruntimeconfig.cache
