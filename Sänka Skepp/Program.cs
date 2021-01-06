@@ -19,6 +19,8 @@
         // 4.1. Buggen fixad i V3. Se tidigare version.
         // 4.2. Buggen fixad i V3. Se tidigare version.
         // 4.3. Buggen fixad i V3. Se tidigare version.
+    // 5. Spelaren vinner omedelbart alla matcher efter sin första vinst. Buggen fixad i V4.
+        // 5.1. Hade att göra med att liven inte återställdes efter matcherna.
 
 using System;
 using System.Threading;
@@ -142,9 +144,13 @@ namespace Sänka_Skepp
         {
             // Skapar spelplanerna.
             GenereraSpelplaner();
-
+            
             // Placerar ut skeppen.
             PlaceraUtSkeppen();
+
+            // Återställer liven mellan matcher, pekades ut av Per i V3.
+            spelarensLiv = antalEttSkepp * 1 + antalTvåSkepp * 2 + antalTreSkepp * 3 + antalFyraSkepp * 4 + antalFemSkepp * 5;
+            datornsLiv = spelarensLiv;
 
             // Fortsätter till spelaren eller datorn har slut på skepp.
             // Varje ruta på skeppen representerar ett liv.

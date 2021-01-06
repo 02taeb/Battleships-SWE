@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TrdtxLHAdHzzQIsEPiqOnPQ/x537QzLf/c+eLHb+e6ypkCvnzoKB6/oyBwHmLGnlh/8UKVDyq5wFuWSjSd3hjA==",
+  "dgSpecHash": "BwrZ5gu0t9sH9GIh7KQrH1xrwvHIN8lGS/gPYdOIYVw7OWfi6DFcL6+h2+CQDKzNz74vuTly3OnAA7bZP8yN5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucasit\\Desktop\\C#-Projekt\\Sänka Skepp\\Sänka Skepp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lucasit\\Desktop\\Programmering\\C#-Konsolmiljö\\Sänka Skepp\\Sänka Skepp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucasit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\lucasit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
